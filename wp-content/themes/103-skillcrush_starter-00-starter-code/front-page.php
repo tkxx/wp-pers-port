@@ -18,9 +18,9 @@ get_header(); ?>
 				<div class="social-btns">  <!-- populate or remove as many of these as you want -->
 					<a href="https://www.twitter.com/lazyloading_" class="soc-icon tw"><span class="screen-reader-text">Twitter</span></a>
 					<a href="https://www.github.com/tkxx" class="soc-icon gh"><span class="screen-reader-text">GitHub</span></a>
-					<a href="https://www.instagram.com/lazy.loading" class="soc-icon in"><span class="screen-reader-text">Instagram</span></a>
+					<a href="https://www.instagram.com/ofjadeandtostones" class="soc-icon in"><span class="screen-reader-text">Instagram</span></a>
 				</div>
-				<a href="<?php echo site_url('/blog/'); ?>" class="btn">View My Blog</a>
+				<a href="<?php echo site_url('/blog/'); ?>" class="btn">Enter for More</a>
 			<?php endwhile; ?>
 		</div>
 	</div>
