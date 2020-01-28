@@ -20,7 +20,7 @@ get_header(); ?>
 					<a href="https://www.github.com/tkxx" class="soc-icon gh"><span class="screen-reader-text">GitHub</span></a>
 					<a href="https://www.instagram.com/ofjadeandtostones" class="soc-icon in"><span class="screen-reader-text">Instagram</span></a>
 				</div>
-				<a href="<?php echo site_url('/blog/'); ?>" class="btn">Enter for More</a>
+				<a href="<?php echo site_url('/blog/'); ?>" class="btn">View My Portfolio</a>
 			<?php endwhile; ?>
 		</div>
 	</div>
